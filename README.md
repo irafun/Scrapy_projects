@@ -1,0 +1,2 @@
+This project uses scrappy's Spider to crawl datacamp website and scrape the title, time, number of videos,
+number of exercises, number of audience, number of trainers and their name, occupation & description data of every courses
