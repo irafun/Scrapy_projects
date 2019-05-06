@@ -1,0 +1,234 @@
+Introduction to Machine Learning;6;74,891
+Intermediate R;6;296,087
+Introduction to R;4;1,158,585
+Data Manipulation in R with dplyr;4;97,685
+Data Visualization in R with ggvis;4;40,689
+Introduction to Python;4;1,340,711
+Reporting with R Markdown;3;60,684
+Cleaning Data in R;4;82,745
+Data Analysis in R, the data.table Way;4;57,135
+Introduction to Portfolio Analysis in R;5;18,064
+Working with the RStudio IDE (Part 1);3;24,068
+Exploring Pitch Data with R;4;7,065
+Machine Learning Toolbox;4;28,009
+Writing Functions in R;4;61,381
+Credit Risk Modeling in R;4;29,699
+Writing Efficient Python Code;4;307
+Text Mining: Bag of Words;4;28,761
+Financial Analytics in Spreadsheets;4;161
+Clustering Methods with SciPy;4;382
+SQL for Exploratory Data Analysis;4;1,582
+Software Engineering for Data Scientists in Python;4;255
+Improving Your Data Visualizations in Python;4;202
+Intermediate SQL;4;3,323
+Topic Modeling in R;4;82
+Working with Dates and Times in Python;4;111
+Highcharter for Finance in R;4;213
+Advanced Dimensionality Reduction in R;4;155
+Probability Puzzles in R;4;302
+Regression Modeling in R: Case Studies;4;141
+Data Visualization in Spreadsheets;4;242
+Course Creation at DataCamp;3;144
+Working with Geospatial Data in Python;4;95
+Single-Cell RNA-Seq Workflows in R;4;919
+Advanced NLP with spaCy;5;852
+Supply Chain Analytics in Python;4;320
+Longitudinal Analysis in R;4;361
+Time Series with data.table in R;4;512
+Introduction to Bioconductor;4;801
+Parallel Programming in R;4;1,077
+Financial Forecasting in Python;4;1,301
+Building Response Models in R;4;283
+Introduction to MongoDB in Python;4;531
+Customer Analytics & A/B Testing in Python;4;2,544
+Inference for Categorical Data;4;979
+Inference for Numerical Data;4;2,585
+ChIP-seq Workflows in R;4;301
+Dimensionality Reduction in R;4;1,051
+Optimizing R Code with Rcpp;4;252
+Introduction to Relational Databases in SQL;4;5,723
+Network Analysis in R: Case Studies;4;624
+Data Manipulation in R with data.table;4;481
+Python for Spreadsheet Users;4;4,616
+Foundations of Predictive Analytics in Python (Part 2);4;858
+Big Data Fundamentals via PySpark;4;3,363
+Introduction to Data Science in Python;4;6,635
+Business Process Analytics in R;4;1,166
+Fraud Detection in Python;4;3,221
+Customer Segmentation in Python;4;3,464
+Analyzing Social Media Data in Python;4;3,711
+Linear Algebra for Data Science in R;4;2,708
+Object-Oriented Programming in Python;4;4,394
+GARCH Models in R;4;1,279
+Generalized Linear Models in R;4;2,219
+Intermediate Spreadsheets for Data Science;4;4,115
+Data Analysis with Spreadsheets;3;14,827
+Convolutional Neural Networks for Image Processing;4;5,331
+Fraud Detection in R;4;1,974
+Spreadsheet Basics;2;14,395
+Intermediate SQL Server;4;8,077
+Pivot Tables with Spreadsheets;4;4,993
+Machine Learning in the Tidyverse;5;2,135
+Designing and Analyzing Clinical Trials in R;4;1,111
+Financial Analytics in R;4;2,682
+Web Scraping in Python;4;4,937
+Building Recommendation Engines with PySpark;4;2,300
+Interactive Data Visualization with rbokeh;4;966
+Predictive Analytics using Networked Data in R;4;1,361
+Survival Analysis in R;4;1,900
+Biomedical Image Analysis in Python;4;3,546
+Anomaly Detection in R;4;2,016
+Dealing With Missing Data in R;4;1,753
+Python for MATLAB Users;4;1,580
+Visualizing Geospatial Data in Python;4;2,832
+Data Visualization with Seaborn;4;5,575
+Statistical Simulation in Python;4;3,108
+Conda for Building & Distributing Packages;3;742
+Analyzing Police Activity with pandas;4;3,995
+Interactive Maps with leaflet in R;4;3,498
+A/B Testing in R;4;2,063
+Analyzing US Census Data in R;4;1,370
+RNA-Seq Differential Expression Analysis;4;1,463
+Analyzing Election and Polling Data in R;4;2,544
+Mixture Models in R;4;1,266
+Hyperparameter Tuning in R;4;1,347
+Network Science in R - A Tidy Approach;4;1,791
+Support Vector Machines in R;4;2,292
+Analyzing Survey Data in R;4;2,238
+Intro to Python for Finance;4;5,824
+Bayesian Regression Modeling with rstanarm;4;1,251
+Intermediate Functional Programming with purrr;4;861
+Experimental Design in R;4;2,604
+Preprocessing for Machine Learning in Python;4;4,503
+Foundations of Predictive Analytics in Python (Part 1);4;3,024
+Advanced Deep Learning with Keras in Python;4;3,505
+Machine Learning for Finance in Python;4;5,968
+Categorical Data in the Tidyverse;4;2,079
+Multivariate Probability Distributions in R;4;2,191
+Factor Analysis in R;4;2,158
+Marketing Analytics in R: Choice Modeling;4;1,460
+Structural Equation Modeling with lavaan in R;4;1,800
+Differential Expression Analysis in R with limma;4;869
+Machine Learning with Tree-Based Models in Python;5;5,466
+Bayesian Modeling with RJAGS;4;1,410
+Linear Classifiers in Python;4;6,583
+Data Privacy and Anonymization in R;4;1,454
+HR Analytics in Python: Predicting Employee Churn;4;2,626
+Feature Engineering with PySpark;4;2,106
+Nonlinear Modeling in R with GAMs;4;1,347
+Human Resources Analytics in R: Predicting Employee Churn;4;1,425
+Machine Learning for Time Series Data in Python;4;5,583
+Marketing Analytics in R: Statistical Modeling;4;5,382
+Supervised Learning in R: Case Studies;4;2,666
+Working with Data in the Tidyverse;4;4,332
+Hierarchical and Mixed Effects Models;4;4,152
+Forecasting Product Demand in R;4;3,146
+Building Dashboards with shinydashboard;4;8,874
+Visualization Best Practices in R;4;2,048
+Modeling with Data in the Tidyverse;4;3,224
+Human Resources Analytics in R: Exploring Employee Data;5;4,796
+Foundations of Functional Programming with purrr;4;1,943
+Joining Data in R with data.table;4;1,034
+Visualizing Big Data with Trelliscope;4;1,745
+Introduction to Linear Modeling in Python;4;2,484
+Communicating with Data in the Tidyverse;4;5,024
+Building Dashboards with flexdashboard;4;1,899
+Interactive Data Visualization with plotly in R;4;1,932
+Conda Essentials;3;2,111
+Cluster Analysis in R;4;11,340
+Intro to Portfolio Risk Management in Python;4;3,104
+Python for R Users;5;5,032
+Intro to Financial Concepts using Python;4;6,969
+Working with Dates and Times in R;4;8,106
+Visualizing Time Series Data in Python;4;5,453
+Fundamentals of Bayesian Data Analysis in R;4;6,301
+Developing R Packages;4;1,349
+Introduction to Git for Data Science;4;49,718
+Joining Data in SQL;5;58,389
+Case Studies in Statistical Thinking;4;4,958
+Building Web Applications in R with Shiny;4;22,995
+Introduction to the Tidyverse;4;57,565
+Spatial Analysis in R with sf and raster;4;3,433
+Introduction to Shell for Data Science;4;22,200
+Network Analysis in R;4;5,548
+Introduction to PySpark;4;19,711
+Introduction to Time Series Analysis in Python;4;15,016
+Parallel Computing with Dask;4;3,786
+Manipulating Time Series Data in Python;4;8,535
+Importing & Managing Financial Data in Python;5;16,333
+Supervised Learning in R: Regression;4;10,673
+Network Analysis in Python (Part 2);4;5,234
+Equity Valuation in R;4;3,416
+Extreme Gradient Boosting with XGBoost;4;11,009
+Multiple and Logistic Regression;4;14,957
+Natural Language Processing Fundamentals in Python;4;27,758
+Building Chatbots in Python;4;30,063
+Building Web Applications in R with Shiny: Case Studies;4;4,668
+Inference for Linear Regression;4;3,286
+Sentiment Analysis in R: The Tidy Way;4;9,013
+Data Visualization in R with lattice;4;2,851
+Introduction to Spark in R using sparklyr;4;9,999
+Data Types for Data Science;4;10,349
+Spatial Statistics in R;4;4,444
+Working with Web Data in R;4;8,113
+Machine Learning with Tree-Based Models in R;4;7,905
+Quantitative Risk Management in R;5;4,726
+Forecasting Using R;5;19,923
+String Manipulation in R with stringr;4;12,443
+Intermediate R for Finance;5;12,007
+Valuation of Life Insurance Products in R;4;2,145
+Introduction to R for Finance;4;30,662
+Writing Efficient R Code;4;8,834
+Foundations of Probability in R;4;9,424
+Unsupervised Learning in Python;4;29,518
+Machine Learning with the Experts: School Budgets;4;20,899
+Visualizing Time Series Data in R;4;5,685
+Cleaning Data in Python;4;58,537
+Deep Learning in Python;4;107,851
+Supervised Learning in R: Classification;4;27,632
+Manipulating Time Series Data in R: Case Studies;4;6,024
+Scalable Data Processing in R;4;2,757
+Supervised Learning with scikit-learn;4;90,508
+Intro to SQL for Data Science;4;257,394
+Object-Oriented Programming in R: S3 and R6;4;9,168
+Sentiment Analysis in R;4;4,851
+Unsupervised Learning in R;4;18,559
+Network Analysis in Python (Part 1);4;33,322
+Introduction to Data;4;48,833
+Correlation and Regression;4;35,601
+Working with Geospatial Data in R;4;10,883
+ARIMA Modeling with R;4;14,133
+Bond Valuation and Analysis in R;4;6,055
+Merging DataFrames with pandas;4;27,562
+Exploratory Data Analysis;4;29,606
+Foundations of Inference;4;13,505
+Importing Data in Python (Part 1);3;94,648
+Manipulating DataFrames with pandas;4;43,736
+Importing Data in Python (Part 2);2;52,552
+pandas Foundations;4;88,502
+Introduction to Data Visualization with Python;4;67,609
+Intermediate Portfolio Analysis in R;5;4,364
+Python Data Science Toolbox (Part 1);3;112,743
+Statistical Modeling in R (Part 1);4;16,504
+Statistical Thinking in Python (Part 1);3;50,660
+Statistical Thinking in Python (Part 2);4;25,650
+Statistical Modeling in R (Part 2);4;4,409
+Importing Data in R (Part 1);3;77,921
+Data Visualization in R;4;29,878
+Python Data Science Toolbox (Part 2);4;68,960
+Exploratory Data Analysis in R: Case Study;4;20,365
+Interactive Data Visualization with Bokeh;4;27,020
+Importing Data in R (Part 2);3;36,311
+Importing & Cleaning Data in R: Case Studies;4;27,850
+Importing and Managing Financial Data in R;5;8,556
+Financial Trading in R;5;12,673
+Joining Data in R with dplyr;4;28,479
+Introduction to Time Series Analysis;4;25,216
+Data Visualization with ggplot2 (Part 3);6;11,071
+Introduction to Databases in Python;4;45,286
+Intermediate Python for Data Science;4;311,510
+Data Visualization with ggplot2 (Part 2);5;40,548
+Manipulating Time Series Data in R with xts & zoo;4;22,172
+Working with the RStudio IDE (Part 2);3;6,966
+Intermediate R - Practice;4;52,336
+Data Visualization with ggplot2 (Part 1);5;107,625
